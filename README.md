@@ -79,96 +79,96 @@ Science Museum of Virginia, Richmond, VA, USA
 #### June 2017	STEM Assistant Instructor
 General Electric Girls Camp, Tulane University, New Orleans, LA<br>
  * Develop 40 minute – three-hour lessons plan meeting program objectives using an interactive and problem solving approach to learning
- Guide 20 middle school students through each learning plan and be on-hand for any non-educational needs throughout a 6 hour day for 4 weeks
-•	Instruct 20 middle schoolers in the basics of circuit design, programming, robotic hardware components, age-appropriate chemistry basics, age-appropriate physics, collaborative problem solving, and designing a deliverable solution that answers a need provided by an external sponsor.
+ * Guide 20 middle school students through each learning plan and be on-hand for any non-educational needs throughout a 6 hour day for 4 weeks
+ * Instruct 20 middle schoolers in the basics of circuit design, programming, robotic hardware components, age-appropriate chemistry basics, age-appropriate physics, collaborative problem solving, and designing a deliverable solution that answers a need provided by an external sponsor.
 
 #### 2013/2017/2018	Teaching Assistant, BSE 221: Introduction to Programming with MATLAB
-Tulane University, New Orleans, LA, USA
-•	Assisted the primary instructor in syllabus design, lesson plans, delivering lectures, curriculum project development, and exam preparation and delivery
-•	Equally split project and exam grading responsibilities with the primary instructor
-•	Organized and was primary instructor for 2 lab sessions per week (25-30 students each) 
-•	Oversaw and mentored the work of two undergraduate lab assistants (per year) assigned to assist with laboratory sessions 
+Tulane University, New Orleans, LA, USA<br>
+ * Assisted the primary instructor in syllabus design, lesson plans, delivering lectures, curriculum project development, and exam preparation and delivery
+ * Equally split project and exam grading responsibilities with the primary instructor
+ * Organized and was primary instructor for 2 lab sessions per week (25-30 students each) 
+ * Oversaw and mentored the work of two undergraduate lab assistants (per year) assigned to assist with laboratory sessions 
 
 #### 2013	Interim Instructor, BSE 201: Introduction to Circuit Design
-Tulane University, New Orleans, LA, USA
-•	Prepared lesson plans on short (same-day to three day notice) for 48 sophomore students
-•	Prepared and delivered 18 lectures, three exams, one quiz, and 10 homework assignments
-•	Oversaw and mentored one graduate Teaching Assistant and two undergraduate graders who assisted with homework grading.
+Tulane University, New Orleans, LA, USA<br>
+ * Prepared lesson plans on short (same-day to three day notice) for 48 sophomore students
+ * Prepared and delivered 18 lectures, three exams, one quiz, and 10 homework assignments
+ * Oversaw and mentored one graduate Teaching Assistant and two undergraduate graders who assisted with homework grading.
 
 #### 2012	Teaching Assistant, BSE 201: Introduction to Circuit Design
-•	Assisted the primary instructor in syllabus design, lesson plans, delivering lectures, curriculum project development, and exam preparation and delivery
-•	Equally split project and exam grading responsibilities with the primary instructor
+ * Assisted the primary instructor in syllabus design, lesson plans, delivering lectures, curriculum project development, and exam preparation and delivery
+ * Equally split project and exam grading responsibilities with the primary instructor
 
 
 #### Research Mentees
-2012-2014	Tyler Schlichenmeyer, Tulane University: Undergraduate Research Student
-2014-2017	Sydney Chestler, Tulane University: Undergraduate Research Student
-2014-2018	Sam Leuthy, Tulane University: Undergraduate and Master’s Research Student
-2016-2018	Carly Askinas, Tulane University: Undergraduate Research Student
-2017-2018	Siyang Hu, Tulane University: Undergraduate Research Student 	
-2017-2018	Lauren Hymel, Tulane University: Undergraduate Research Student
-2017-2018	Carly Swan, Tulane University: Undergraduate Research Student
-2020-Present	Sarah Dudgeon, Yale University: Doctoral Student Research ORISE Fellow at FDA
-2021		John Paul Philips, University of Chicago: Undergraduate Research ORISE Fellow at FDA
-2021		Kai James Setty, School Without Walls High School: ORISE Fellow at FDA
-2021-Present	Phoebe Qian, Mclean High School: ORISE Fellow at FDA and High School Mentee
+2012-2014	Tyler Schlichenmeyer, Tulane University: Undergraduate Research Student<br>
+2014-2017	Sydney Chestler, Tulane University: Undergraduate Research Student<br>
+2014-2018	Sam Leuthy, Tulane University: Undergraduate and Master’s Research Student<br>
+2016-2018	Carly Askinas, Tulane University: Undergraduate Research Student<br>
+2017-2018	Siyang Hu, Tulane University: Undergraduate Research Student 	<br>
+2017-2018	Lauren Hymel, Tulane University: Undergraduate Research Student<br>
+2017-2018	Carly Swan, Tulane University: Undergraduate Research Student<br>
+2020-Present	Sarah Dudgeon, Yale University: Doctoral Student Research ORISE Fellow at FDA<br>
+2021		John Paul Philips, University of Chicago: Undergraduate Research ORISE Fellow at FDA<br>
+2021		Kai James Setty, School Without Walls High School: ORISE Fellow at FDA<br>
+2021-Present	Phoebe Qian, Mclean High School: ORISE Fellow at FDA and High School Mentee<br>
 
 ### PROFESSIONAL SOCIETIES AND AFFILIATIONS
-2007-Present 	Member, Society of Women Engineers
-2011-2012 	Member, IEEE Nanotechnology Council (Founding Member)
-2012-Present 	Member, Biomedical Engineering Society 
-2016-Present 	Member, Optical Society of America
-2017-Present 	Member, American Association for Engineering Education
-2018-Present 	Member, SPIE, Society of Photo-optical Instrumentation Engineers
-2020-Present 	Steering Committee Member, Pathology Innovation Collaborative Community
-2021-Present	Associate Member, American Association for Cancer Research
+2007-Present 	Member, Society of Women Engineers<br>
+2011-2012 	Member, IEEE Nanotechnology Council (Founding Member)<br>
+2012-Present 	Member, Biomedical Engineering Society <br>
+2016-Present 	Member, Optical Society of America<br>
+2017-Present 	Member, American Association for Engineering Education<br>
+2018-Present 	Member, SPIE, Society of Photo-optical Instrumentation Engineers<br>
+2020-Present 	Steering Committee Member, Pathology Innovation Collaborative Community<br>
+2021-Present	Associate Member, American Association for Cancer Research<br>
 
 
 ### LEADERSHIP/SERVICE 
 
 #### Scientific Community
-2021 Peer Reviewer, Cancers 
-2021 Peer Reviewer, Diagnostics
+2021 Peer Reviewer, Cancers <br>
+2021 Peer Reviewer, Diagnostics<br>
 
 #### Institutional Service
-NIH/National Cancer Institute
-2021 Judge, NCI Post-Baccalaureate Poster Day
-Cancer Prevention Fellowship Program: Fellows Advisory Board
-2021 Co-Chair, Fellows Advisory Board
-2021 Co-Chair, Career Development Seminar Series 
+NIH/National Cancer Institute<br>
+2021 Judge, NCI Post-Baccalaureate Poster Day<br>
+Cancer Prevention Fellowship Program: Fellows Advisory Board<br>
+2021 Co-Chair, Fellows Advisory Board<br>
+2021 Co-Chair, Career Development Seminar Series <br>
 
 #### Tulane University
-2018 NAE Grand Challenges Scholar Program Graduate Advisor for the new Tulane GCSP 
-2017 School of Science and Engineering Dean Search Committee
-2015-17 Graduate Student Representative to the Office of Gender and Sexual Diversity 
-Tulane Graduate and Professional Students Association 
-2016 GSSA Representative, Graduate and Professional Student Affairs Committee, University Senate Social Issues Committee 
-2015 SSE-GSSA Representative, Graduate and Professional Student Affairs Committee University Senate Social Issues Committee 
+2018 NAE Grand Challenges Scholar Program Graduate Advisor for the new Tulane GCSP <br>
+2017 School of Science and Engineering Dean Search Committee<br>
+2015-17 Graduate Student Representative to the Office of Gender and Sexual Diversity<br><br>
+Tulane Graduate and Professional Students Association <br>
+2016 GSSA Representative, Graduate and Professional Student Affairs Committee, University Senate Social Issues Committee <br>
+2015 SSE-GSSA Representative, Graduate and Professional Student Affairs Committee University Senate Social Issues Committee <br><br>
 Tulane Graduate Student Studies Association
-2017-18 GSSA Representative Proxy for Biomedical Engineering
-2016-17 GSSA President (managed budget of $100k), Graduate Council SSE Student Representative 
-2015-16 Graduate Council SSE Student Representative, Events Committee, Tulane Master Plan Graduate Committee, Biomedical Engineering Representative 
-2014-15 Events Committee, Biomedical Engineering Representative 
-Women+ in Science and Engineering at Tulane University 
-2018 Committee member: Mentorship & Outreach, Academic Development, Industry & Government 
+2017-18 GSSA Representative Proxy for Biomedical Engineering<br>
+2016-17 GSSA President (managed budget of $100k), Graduate Council SSE Student Representative <br>
+2015-16 Graduate Council SSE Student Representative, Events Committee, Tulane Master Plan Graduate Committee, Biomedical Engineering Representative <br>
+2014-15 Events Committee, Biomedical Engineering Representative <br><br>
+Women+ in Science and Engineering at Tulane University <br>
+2018 Committee member: Mentorship & Outreach, Academic Development, Industry & Government <br>
 2016-17 Co-Founder of gender-identity inclusive group for graduate students and post-docs Co-Chair, organized a graduate fellowship workshop and coordinated other activities for 
-networking, mental wellness, and career development. 
-Society of Women Engineers, National Member
+networking, mental wellness, and career development. <br><br>
+Society of Women Engineers, National Member<br>
 2014-18 Graduate Student Mentor for Tulane University Section C066 
 
 #### Service for PK-12 Students
-The Science Museum of Virginia 
-2018-19 Volunteer Gallery Educator and special events volunteer, 120hrs
-The Perry Initiative – Biomedical Engineering and Orthopedic Workshops for High School Girls 2015-2017 Lead Graduate Student Volunteer, Volunteer Supervisor 
-Greater New Orleans Science and Engineering Fair 
-2016-2018 Board Member, Webmaster, on-site setup volunteer, junior/senior division judge 
-Girls in STEM at Tulane (GiST) 
-2018 Group leader and aided in registration of 210 girls
-2013-2018 Founding Co-Coordinator for registration and supervision of 120-200 participants 
-Boys at Tulane in STEM (BaTS) 
-2016-2017 Founding Co-Coordinator for registration and supervision of 120-200 participants 
-FIRST Robotics: For Inspiration and Recognition of Science and Technology
-2013-18 FIRST Robotics Competition- Regional Championship Planning Committee member, volunteer registration supervisor, set-up/break-down coordinator, and referee 
+The Science Museum of Virginia <br>
+2018-19 Volunteer Gallery Educator and special events volunteer, 120hrs<br><br>
+The Perry Initiative – Biomedical Engineering and Orthopedic Workshops for High School Girls 2015-2017 Lead Graduate Student Volunteer, Volunteer Supervisor <br><br>
+Greater New Orleans Science and Engineering Fair <br>
+2016-2018 Board Member, Webmaster, on-site setup volunteer, junior/senior division judge <br><br>
+Girls in STEM at Tulane (GiST) <br>
+2018 Group leader and aided in registration of 210 girls<br>
+2013-2018 Founding Co-Coordinator for registration and supervision of 120-200 participants <br><br>
+Boys at Tulane in STEM (BaTS) <br>
+2016-2017 Founding Co-Coordinator for registration and supervision of 120-200 participants <br><br>
+FIRST Robotics: For Inspiration and Recognition of Science and Technology<br>
+2013-18 FIRST Robotics Competition- Regional Championship Planning Committee member, volunteer registration supervisor, set-up/break-down coordinator, and referee <br>
 2013-17 Lego League – Regional Championship Planning Committee, Production Manager, volunteer coordinator, and referee
 
 ### CERTIFICATES AND TRAINING
@@ -176,11 +176,11 @@ FIRST Robotics: For Inspiration and Recognition of Science and Technology
 [In-Progress] NIH OITE Diversity and Inclusion Series
 
 #### Trainings
-CITI Biomedical Data or Specimens Only Research – Basic/Refresher
-CITI GCP for Clinical Investigations of Devices
-CITI Responsible Conduct of Research
-CITI Revised Common Rule
-2021 Education and Training in Optics & Photonics Conference, Optical Society of America & SPIE
+CITI Biomedical Data or Specimens Only Research – Basic/Refresher<br>
+CITI GCP for Clinical Investigations of Devices<br>
+CITI Responsible Conduct of Research<br>
+CITI Revised Common Rule<br>
+2021 Education and Training in Optics & Photonics Conference, Optical Society of America & SPIE<br>
 
 ### PUBLICATIONS 
 1.	[In-Preparation] Elfer KN, Blenman K, Dudgeon SN, Garcia V, Ehinger A, Li X, Ly A, Peeters D, Werness B, Hanna M, Salgado R, Gallas BD, “An Open-Source electronic evaluation system for digital and analogue pathology registration,” Journal of Visual Experiments, 2022. 
